@@ -17,7 +17,7 @@ Built with **Node.js + Express + MongoDB** on the backend and **React + Vite** o
 ## 📸 Screenshots
 
 ### HR Dashboard
-![HR Dashboard Screenshot](attachments/tUXRRvjP65PsqJDAZsUez.png)
+![HR Dashboard Screenshot](Screenshot/HR Dashboard1.png)
 
 ---
 
