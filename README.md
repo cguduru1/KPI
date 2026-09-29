@@ -14,6 +14,11 @@ Built with **Node.js + Express + MongoDB** on the backend and **React + Vite** o
 - Export reports to PDF, CSV, and Excel
 - Sentiment analysis and regression analytics for KPI data
 
+## 📸 Screenshots
+
+### HR Dashboard
+![HR Dashboard Screenshot](attachments/tUXRRvjP65PsqJDAZsUez.png)
+
 ---
 
 ## 📦 Installation
