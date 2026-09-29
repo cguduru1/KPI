@@ -17,7 +17,9 @@ Built with **Node.js + Express + MongoDB** on the backend and **React + Vite** o
 ## 📸 Screenshots
 
 ### HR Dashboard
-![HR Dashboard Screenshot](Screenshot/HR Dashboard1.png)
+![HR Dashboard Screenshot](https://github.com/cguduru1/KPI/blob/main/Screenshot/HR%20Dashboard1.png)
+![HR Dashboard Screenshot](https://github.com/cguduru1/KPI/blob/main/Screenshot/HR%20Dashboard2.png)
+![HR Dashboard Screenshot](https://github.com/cguduru1/KPI/blob/main/Screenshot/HR%20Dashboard3.png)
 
 ---
 
