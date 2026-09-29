@@ -20,5 +20,5 @@ Built with **Node.js + Express + MongoDB** on the backend and **React + Vite** o
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/kpi-management.git
-cd kpi-management
+git clone https://github.com/cguduru1/KPI.git
+cd kpi
