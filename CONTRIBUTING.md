@@ -11,5 +11,5 @@ We welcome improvements, bug fixes, documentation updates, and new features.
 - Fork the repository on GitHub.
 - Clone your fork locally:
   ```bash
-  git clone https://github.com/yourusername/kpi-management.git
-  cd kpi-management
+  git clone https://github.com/cguduru1/KPI.git
+  cd kpi
